@@ -47,4 +47,4 @@ Step 6: Terminate the program.
 
 ## RESULT:
 
-[Image](https://github.com/user-attachments/assets/354ac9e2-be5b-4f31-ab7b-fd3284d7ea20)
+![Image ](https://github.com/user-attachments/assets/10569ab9-9345-4729-a742-8ff021ee71e1)

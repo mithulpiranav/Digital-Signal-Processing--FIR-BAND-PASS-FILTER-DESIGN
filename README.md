@@ -46,3 +46,5 @@ Step 6: Terminate the program.
 <img width="1080" height="1281" alt="image" src="https://github.com/user-attachments/assets/7bd4c013-e367-46bf-95cf-371e90634cb5" />
 
 ## RESULT:
+
+[Image](https://github.com/user-attachments/assets/354ac9e2-be5b-4f31-ab7b-fd3284d7ea20)
